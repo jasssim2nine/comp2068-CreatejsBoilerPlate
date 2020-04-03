@@ -110,6 +110,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\bluebutton.jpg" />
     <Content Include="css\app.css" />
     <Content Include="index.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
@@ -128,9 +129,8 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="asset\audio\" />
-    <Folder Include="asset\fonts\" />
-    <Folder Include="asset\images\" />
+    <Folder Include="assets\audio\" />
+    <Folder Include="assets\fonts\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Script\game.ts" />
